@@ -18,7 +18,7 @@ export const projects = [
     img2: reactIphone2,
     distort: one,
     type: "React/ Redux Toolkit",
-    link: "http://react-iphone-promo-com.preview-domain.com/",
+    link: "https://react-phone.xyz/",
   },
   {
     id: 2,
