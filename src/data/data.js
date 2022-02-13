@@ -6,8 +6,6 @@ import reactIphone from "../images/react-iphone.webp";
 import reactIphone2 from "../images/react-iphone1.webp";
 import reactTesla from "../images/react-tesla.webp";
 import reactTesla2 from "../images/react-tesla1.webp";
-import reactCrud from "../images/React-CRUD.webp";
-import reactCrud2 from "../images/React-CRUD1.webp";
 import one from '../images/1.jpg'
 import two from '../images/2.jpg'
 import three from '../images/3.jpeg'
@@ -34,15 +32,6 @@ export const projects = [
   },
   {
     id: 3,
-    img: reactCrud,
-    title: "React-CRUD-invoice",
-    img2: reactCrud2,
-    distort: three,
-    type: "React/ GSAP",
-    link: "https://react-crud-invoice.netlify.app",
-  },
-  {
-    id: 4,
     title: "React-Rentals",
     img: ReactRental,
     img2: ReactRental2,
@@ -51,7 +40,7 @@ export const projects = [
     link: "https://react-rental.netlify.app",
   },
   {
-    id: 5,
+    id: 4,
     title: "Thick Thighs Matter",
     img: thickthighs,
     img2: thickthighs2,
