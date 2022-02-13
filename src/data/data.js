@@ -8,7 +8,6 @@ import reactTesla from "../images/react-tesla.webp";
 import reactTesla2 from "../images/react-tesla1.webp";
 import one from '../images/1.jpg'
 import two from '../images/2.jpg'
-import three from '../images/3.jpeg'
 import four from '../images/4.jpg'
 
 export const projects = [
