@@ -14,13 +14,13 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding-top: 50rem;
+        padding: 50rem;
 
         .me {
-            height: 75rem;
-            width: 70rem;
-            margin-bottom: -40rem;
-            object-fit: cover;
+            height: 100vh;
+            width: 100vw;
+            scroll-margin-block: 1rem;
+            object-fit: contain;
             opacity: .9;
         }
 
