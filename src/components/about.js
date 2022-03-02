@@ -6,7 +6,7 @@ import {
     useAnimation,
 } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import logo from '../images/logo.png'
+import dev from '../images/dev.jpg'
 import { ReactComponent as Arrow1 } from '../images/Arrow 1.svg'
 import resume from '../images/cv.pdf'
 
@@ -42,7 +42,7 @@ const About = ({ onCursor }) => {
           <div id="about" className="about__main">
             <motion.img
               className="me"
-              src={logo}
+              src={dev}
               alt="logo"
               style={{ y: y1 }}
             />
