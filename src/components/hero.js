@@ -36,13 +36,10 @@ const Hero = ({ onCursor, setToggleMenu }) => {
               animate={{
                 opacity: 1,
                 y: 0,
-                transition: { delay: .8, ...transition },
+                transition: { delay: 0.8, ...transition },
               }}
             >
-              <img className="me"
-                src={logo}
-                alt="logo"
-                style={{ y: y1 }} />
+              <img className="me" src={logo} alt="me" style={{ y: y1 }} />
               <ul>
                 <li>
                   <a
@@ -128,13 +125,14 @@ const Hero = ({ onCursor, setToggleMenu }) => {
                     transition: { delay: 2.2, ...transition },
                   }}
                 >
-                  <span>HTML </span>
-                  <span>CSS</span>
-                  <span>JavaScript </span>
-                  <span>RESTful</span>
-                  <span>SASS </span>
-                  <span>Redux JS/toolkit</span>
-                  <span>GSAP </span>
+                  <span>HTML -</span>
+                  <span>CSS -</span>
+                  <span>SASS -</span>
+                  <span>JavaScript - </span>
+                  <span>React -</span>
+                  <span>RESTful API -</span>
+                  <span>Redux JS/toolkit -</span>
+                  <span>GSAP - </span>
                   <span>Framer Motion</span>
                 </motion.div>
               </div>
