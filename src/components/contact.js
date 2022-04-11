@@ -31,7 +31,7 @@ const Contact = ({ onCursor }) => {
                   onMouseEnter={() => onCursor("hovered")}
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="linkedin.com/in/ivan-hill-21244ba6"
+                  href="https://www.linkedin.com/in/ivan-hill-21244ba6/"
                 >
                   linkedin
                 </a>
