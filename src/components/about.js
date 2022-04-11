@@ -116,6 +116,7 @@ const About = ({ onCursor }) => {
               <li>CSS</li>
               <li>JavaScript</li>
               <li>React js</li>
+              <li>WordPress</li>  
              </ul>
           </motion.div>
         </section>
