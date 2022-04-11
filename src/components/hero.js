@@ -129,6 +129,7 @@ const Hero = ({ onCursor, setToggleMenu }) => {
                   <span>CSS -</span>
                   <span>JavaScript - </span>
                   <span>React -</span>
+                  <span>WordPress -</span>
                   <span>RESTful API -</span>
                   <span>Redux JS/toolkit -</span>
                   <span>GSAP - </span>
