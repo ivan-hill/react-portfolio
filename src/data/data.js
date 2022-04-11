@@ -38,7 +38,7 @@ export const projects = [
   {
     id: 3,
     title: "Phil Fruits",
-    img: PhilFruits,
+    img: PhilFruits1,
     img2: PhilFruits2,
     distort: four,
     type: "Agricultural website for local business using WordPress theme  ",
