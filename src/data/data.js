@@ -1,5 +1,7 @@
-import ReactRental from "../images/React-Rentals1.webp";
-import ReactRental2 from "../images/React-Rentals.webp";
+import PhilFruitsl from "../images/philfruits.webp";
+import PhilFruits2 from "../images/philfruits2.webp";
+import WeStandl from "../images/we_stand.webp";
+import WeStand2 from "../images/we_stand2.webp";
 import thickthighs from "../images/thickthighs.webp";
 import thickthighs2 from "../images/thickthighs1.webp";
 import reactIphone from "../images/react-iphone.webp";
@@ -35,12 +37,12 @@ export const projects = [
 
   {
     id: 3,
-    title: "React-Rentals",
-    img: ReactRental,
-    img2: ReactRental2,
+    title: "Phil Fruits",
+    img: PhilFruits,
+    img2: PhilFruits2,
     distort: four,
-    type: "Real estate website using React and Styled-Components",
-    link: "https://react-rental.netlify.app",
+    type: "Agricultural website for local business using WordPress theme  ",
+    link: "https://philfruits.ch/",
   },
   {
     id: 4,
@@ -59,5 +61,14 @@ export const projects = [
     distort: three,
     type: "Covid-19 tracker using React, Charts JS, Material UI, and Firebase SDK + hosting",
     link: "https://coronavirustracker-75e09.web.app/",
+  },
+   {
+    id: 6,
+    title: "We Stand With Ukraine",
+    img: WeStandl,
+    img2: WeStand2,
+    distort: three,
+    type: "We Stand With Ukraine is a strategic branding & design theme using Bennett from WordPress ",
+    link: "https://ivan-hill.rocks/",
   },
 ];
