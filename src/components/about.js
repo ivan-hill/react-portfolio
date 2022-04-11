@@ -68,8 +68,7 @@ const About = ({ onCursor }) => {
                 <p>
                   Hi, my name is Ivan Hill and I am a Junior Front-End Developer
                   located in Lausanne,Switzerland. My goal is to use my skills
-                  to create Landing pages, HTML Emails, and Front-End
-                  applications, at a creative agency or marketing department.
+                  to create complete, multilingual and modern websites, online shops,and web applications
                   I'm authorizied to work in the United States and Switzerland.
                 </p>
 
