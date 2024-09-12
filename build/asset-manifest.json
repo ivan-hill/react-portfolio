@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5f40f61.css",
+    "main.js": "/static/js/main.2b0b6822.js",
+    "static/media/h_a_gallery_preview.png": "/static/media/h_a_gallery_preview.caf03638a23c9ba067d9.png",
+    "static/media/lesjardins.png": "/static/media/lesjardins.32024d5b45e722c95b23.png",
+    "static/media/philfruits.webp": "/static/media/philfruits.1a3ba064b9219ef6b3df.webp",
+    "static/media/3rdgen2.png": "/static/media/3rdgen2.06bfc2f8b05af08a3543.png",
+    "static/media/dev.jpg": "/static/media/dev.30a2bb5486bd649acb20.jpg",
+    "static/media/carepakmtm.png": "/static/media/carepakmtm.9059f4125d588aed5a3f.png",
+    "static/media/carepakmtm2.png": "/static/media/carepakmtm2.6508c511d8aad56c3824.png",
+    "static/media/cv.pdf": "/static/media/cv.4db2a2acc2262d8fb7a0.pdf",
+    "static/media/jardin2.png": "/static/media/jardin2.50021efd742e90ef61ab.png",
+    "static/media/philfruits2.webp": "/static/media/philfruits2.cd6de5fd50c4210fa84c.webp",
+    "static/media/mic.png": "/static/media/mic.8e911947f87f09b818a9.png",
+    "static/media/audio-streaming-app.png": "/static/media/audio-streaming-app.9469aef97864398faa1b.png",
+    "static/media/1.jpg": "/static/media/1.7ab2112fdd2484172de3.jpg",
+    "static/media/3.jpeg": "/static/media/3.182fd08502c93a4d9a92.jpeg",
+    "static/media/4.jpg": "/static/media/4.e6a4e03b8ddd0ecea334.jpg",
+    "static/media/2.jpg": "/static/media/2.3ba6b697536aacada61a.jpg",
+    "static/media/3rdgen.png": "/static/media/3rdgen.21e0d1665149aa77ee8e.png",
+    "static/media/Bigilla-Bold.woff2": "/static/media/Bigilla-Bold.366fa18ce60b8e944414.woff2",
+    "static/media/Bigilla.woff2": "/static/media/Bigilla.520694f3a50a0ca10842.woff2",
+    "static/media/alphabets.jpg": "/static/media/alphabets.bbc7a99527d69ac98ca8.jpg",
+    "static/media/Walkway_Bold.woff2": "/static/media/Walkway_Bold.b956921eb5a51615086d.woff2",
+    "static/media/Walkway_SemiBold.woff2": "/static/media/Walkway_SemiBold.cc2209949bfaf4d8214a.woff2",
+    "static/media/up.svg": "/static/media/up.68ce7906c23e902cc46460c5906c1d3f.svg",
+    "static/media/Arrow 1.svg": "/static/media/Arrow 1.dd5ca2959edeaa850d36e0ec195f6716.svg",
+    "static/media/Arrow 2.svg": "/static/media/Arrow 2.40025ef286efe75ed9764711b94e9ea0.svg",
+    "index.html": "/index.html",
+    "main.d5f40f61.css.map": "/static/css/main.d5f40f61.css.map",
+    "main.2b0b6822.js.map": "/static/js/main.2b0b6822.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f40f61.css",
+    "static/js/main.2b0b6822.js"
+  ]
+}
